@@ -14,7 +14,7 @@ performed it will return null because all 52 cards have already been dealt with.
 ## Table of Contents
 1. [Classes](#classes)
 2. [Compile](#compile)
-4. [Example Run](#Example Run)
+4. [Example Run](#example run)
 
 # Classes
 1. Card

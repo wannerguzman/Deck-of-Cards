@@ -1,0 +1,6 @@
+C:\Users\wanne\source\repos\DeckofCards\DeckofCards\bin\Debug\DeckofCards.exe.config
+C:\Users\wanne\source\repos\DeckofCards\DeckofCards\bin\Debug\DeckofCards.exe
+C:\Users\wanne\source\repos\DeckofCards\DeckofCards\bin\Debug\DeckofCards.pdb
+C:\Users\wanne\source\repos\DeckofCards\DeckofCards\obj\Debug\DeckofCards.csproj.CoreCompileInputs.cache
+C:\Users\wanne\source\repos\DeckofCards\DeckofCards\obj\Debug\DeckofCards.exe
+C:\Users\wanne\source\repos\DeckofCards\DeckofCards\obj\Debug\DeckofCards.pdb

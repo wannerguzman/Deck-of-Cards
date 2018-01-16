@@ -3,8 +3,8 @@
 [Source Code](/DeckofCards/DeckofCards/)
 
 The program has a Deck 52 cards with:
-● 4 suits: hearts​, spades​, clubs​, diamonds
-● Face values of: Ace​, 2-10​, Jack​, Queen​, and King​).
+- 4 suits: hearts​, spades​, clubs​, diamonds
+- Face values of: Ace​, 2-10​, Jack​, Queen​, and King​).
 In the DeckofCard class I have provided the following operations:
 shuffle() - Shuffle the cards by swapping random cards and returns nothing.
 dealOneCard() - returns one card from the deck to the caller. Before this method

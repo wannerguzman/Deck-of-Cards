@@ -11,6 +11,11 @@
 is called we first shuffle and then perform 52 calls to this method. If a 53 call is
 performed it will return null because all 52 cards have already been dealt with.
 
+## Table of Contents
+1. [Classes](#Classes)
+2. [Compile](#Compile)
+4. [Example Run](#Example Run)
+
 # Classes
 1. Card
 [Source Code](/DeckofCards/DeckofCards/Card.cs)

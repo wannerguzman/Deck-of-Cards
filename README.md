@@ -55,7 +55,7 @@ that first I print the deck and then shuffle and re-print and lastly print after
 
 ```
 # Example Run
-## Console Window
+### Console Window
 ```
 -----------------------Deck before shuffling-----------------------------
 2 of Diamonds

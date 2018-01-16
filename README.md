@@ -13,11 +13,14 @@ performed it will return null because all 52 cards have already been dealt with.
 
 # Classes
 1. Card
+[Card Source Code](/DeckofCards/DeckofCards/Card.cs)
 ```
 Create an object Card. A card has a face and a suit. I also write a method to represent the card in a toSting
 format.
 ```
 2. DeckofCards
+[DeckofCards Source Code](/DeckofCards/DeckofCards/DeckofCards.cs)
+
 ```
 In the deck of cards I create all possible 52 cards in the constructor. I store the cards in an array. I also
 have a variable that stores the index of the next card to be returned by dealOneCard method which I also 
@@ -26,6 +29,8 @@ shuffle method. I randomly shuffle by swapping the card in each index of the dec
 have a method thatdisplays the deck when called.
 ```
 3.Main
+[Main Source Code](/DeckofCards/DeckofCards/Main.cs)
+
 ```
 Main class has the main method which runs the main program. I create a Deck of cards, print out the deck. Then I 
 shuffle the deck of cards and re-print to the console. Then I call the dealOndeCard 53 times and print that out, 

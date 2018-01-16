@@ -14,26 +14,22 @@ performed it will return null because all 52 cards have already been dealt with.
 # Classes
 1. Card
 ```
-Create an object Card. A card has a face and a suit.
-I also write a method to represent the card in a toSting
+Create an object Card. A card has a face and a suit. I also write a method to represent the card in a toSting
 format.
 ```
 2. DeckofCards
 ```
-In the deck of cards I create all possible 52 cards in the constructor. I store the cards in an array. I also have a 
-variable that stores the index of the next card to be returned by dealOneCard method which I also provided. If the next 
-index is outside of the array we have means all cards already dealt. I also provide the shuffle method. I randomly shuffle 
-by swapping the card in each index of the deck by another random card. I also have a method that displays the deck when called.
-
+In the deck of cards I create all possible 52 cards in the constructor. I store the cards in an array. I also 
+have a variable that stores the index of the next card to be returned by dealOneCard method which I also provided. 
+If the next index is outside of the array we have means all cards already dealt. I also provide the shuffle method. 
+I randomly shuffle by swapping the card in each index of the deck by another random card. I also have a method that 
+displays the deck when called.
 ```
 3.Main
 ```
-Main class has the main method which runs the main program.
-I create a Deck of cards, print out the deck. Then I shuffle 
-the deck of cards and re-print to the console. Then I call
-the dealOndeCard 53 times and print that out, which also prints
-null when all cards have been dealt with at the 53rd call of the method.
-
+Main class has the main method which runs the main program. I create a Deck of cards, print out the deck. Then I 
+shuffle the deck of cards and re-print to the console. Then I call the dealOndeCard 53 times and print that out, 
+which also prints null when all cards have been dealt with at the 53rd call of the method.
 ```
 # Compile
 ```

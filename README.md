@@ -14,7 +14,7 @@ performed it will return null because all 52 cards have already been dealt with.
 ```
 Create an object Card. A card has a face and a suit.
 I also write a method to represent the card in a toSting
-fromat.
+format.
 ```
 2. DeckofCards
 ```
@@ -26,9 +26,10 @@ performs union when a similarity is found and recolors the pixels.
 ```
 3.Main
 ```
-Main class has the main method wich runs the main program.
+Main class has the main method which runs the main program.
 I create a Deck of cards, print out the deck. Then I shuffle 
 the deck of cards and re-print to the console. Then I call
 the dealOndeCard 53 times and print that out, which also prints
 null when all cards have been dealt with at the 53rd call of the method.
+
 ```

@@ -18,10 +18,12 @@ format.
 ```
 2. DeckofCards
 ```
-This class performs the entire functionalities of the program. It finds the average color
-of a certain pixel. It also finds neighbors of a pixel. It creates a queue with similarities
-from the average color and neighbors. It also constructs the main disjoint set and
-performs union when a similarity is found and recolors the pixels.
+In the deck of cards I create all possible 52 cards in the constructor. I store the cards
+in an array. I also have a variable that stores the index of the next card to be returned 
+by dealOneCard method which I also provided. If the next index is outside of the array we 
+have means all cards already dealt. I also provide the shuffle method. I randomly shuffle by
+swapping the card in each index of the deck by another random card. I also have a method that
+displays the deck when called.
 
 ```
 3.Main
@@ -31,6 +33,17 @@ I create a Deck of cards, print out the deck. Then I shuffle
 the deck of cards and re-print to the console. Then I call
 the dealOndeCard 53 times and print that out, which also prints
 null when all cards have been dealt with at the 53rd call of the method.
+
+```
+# Compile
+```
+The way I approached this assignment was by first downloading Visual Studio and making sure the I also
+installed the packages to run a C# application. This was the first time I built and ran a c# application
+but was easy since it is familiar to java. I also wanted to try something new. I created a new c# project
+in Visual Studio and create a file Main with the Main class and main method and another file card with the
+Card class and lastly a DeckofCard file that contained the DeckofCard class. All files were in the namespace
+of DeckofCards. First, I wrote it as if I was writing a java program but modified it to c#. Then made sure there
+were no errors it ran perfectly. I make it print out to the console, demonstrating the required specifications.
 
 ```
 # Example Run

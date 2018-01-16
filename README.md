@@ -1,5 +1,5 @@
 # Deck of Cards Program in c#
-#### To go directly to the folder that contains the files and source Code, press the following link below:
+#### To go directly to the folder that contains the files that contain the source Code, press the following link below:
 [Source Code](/DeckofCards/DeckofCards/)
 
 ### The program has a Deck 52 cards with:

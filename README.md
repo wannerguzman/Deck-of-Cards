@@ -1,5 +1,5 @@
 # Deck of Cards Program in c#
-### what
+#### source code [a link](/DeckofCards/DeckofCards/)
 ```
 The program has a Deck 52 cards with:
 ● 4 suits: hearts​, spades​, clubs​, diamonds

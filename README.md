@@ -1,6 +1,6 @@
 # Deck of Cards Program in c#
 ##### To go directly to the folder that contains the files and source Code, press the following link below:
-[a link](/DeckofCards/DeckofCards/)
+[Source Code](/DeckofCards/DeckofCards/)
 ```
 The program has a Deck 52 cards with:
 ● 4 suits: hearts​, spades​, clubs​, diamonds
@@ -20,12 +20,10 @@ format.
 ```
 2. DeckofCards
 ```
-In the deck of cards I create all possible 52 cards in the constructor. I store the cards
-in an array. I also have a variable that stores the index of the next card to be returned 
-by dealOneCard method which I also provided. If the next index is outside of the array we 
-have means all cards already dealt. I also provide the shuffle method. I randomly shuffle by
-swapping the card in each index of the deck by another random card. I also have a method that
-displays the deck when called.
+In the deck of cards I create all possible 52 cards in the constructor. I store the cards in an array. I also have a 
+variable that stores the index of the next card to be returned by dealOneCard method which I also provided. If the next 
+index is outside of the array we have means all cards already dealt. I also provide the shuffle method. I randomly shuffle 
+by swapping the card in each index of the deck by another random card. I also have a method that displays the deck when called.
 
 ```
 3.Main
